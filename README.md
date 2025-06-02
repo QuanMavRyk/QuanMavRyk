@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuanMavRyk
+- 👋 Hi, I’m @Quan
 - 👀 I’m interested in FPT university
 - 🌱 I’m currently learning SE
 - 💞️ I’m looking to collaborate on 
